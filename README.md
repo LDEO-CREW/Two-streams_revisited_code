@@ -14,3 +14,4 @@ You may contact me, Dion, through dh3065@columbia.edu if you have any questions.
 * `scipy >= 1.8.0`
 * `autograd >= 1.5`
 * `plotly >= 5.22.0`
+* `matplotlib >= 3.6.0`
