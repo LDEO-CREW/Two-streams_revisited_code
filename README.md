@@ -3,6 +3,8 @@ Code and data necessary to reproduce figures presented in our paper
 The figures and code to reproduce them are in the Jupyter Notebook `Two-stream_revisited_code.ipynb`.
 We also provided code to further explore the dataset of optimized coupling coefficients `two-streams_revisited.npz`.
 
+Identical Zenodo record: https://zenodo.org/records/11561970.
+
 You may contact me, Dion, through dh3065@columbia.edu if you have any questions.
 
 ## Requirements
