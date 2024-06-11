@@ -1,7 +1,7 @@
 Code and data necessary to reproduce figures presented in our paper 
 "Two-Streams Revisited: General Equations, Exact Coefficients, and Optimized Closures" (Ho, and Pincus 2023).
 The figures and code to reproduce them are in the Jupyter Notebook `Two-stream_revisited_code.ipynb`.
-We also provided code to further explore the dataset of optimized coupling coefficients `two-streams_revisited.npz`.
+We also provided code to further explore the dataset of optimized coupling coefficients `optimized_coupling_coefficients.npz`.
 
 Identical Zenodo record: https://zenodo.org/records/11561970.
 
