@@ -15,5 +15,8 @@ You may contact me, Dion, through dh3065@columbia.edu if you have any questions.
 * `PythonicDISORT >= 0.8.0`
 * `numpy >= 1.8.0`
 * `scipy >= 1.8.0`
+* `matplotlib >= 3.6.0`
+* `jupyter > 1.0.0`
+* `notebook > 6.5.2`
 * `autograd >= 1.5`
 * `plotly >= 5.22.0`
